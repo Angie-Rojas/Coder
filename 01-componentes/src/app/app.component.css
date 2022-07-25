@@ -1,0 +1,13 @@
+.dash{
+  display: flex;
+}
+
+.menu {
+  display: block;
+  width: 100%;
+}
+
+.home {
+  display: block;
+  width: 100%;
+}

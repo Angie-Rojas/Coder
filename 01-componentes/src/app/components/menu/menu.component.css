@@ -1,0 +1,31 @@
+.box {
+  background: #fff;
+  margin: 40px 0;
+  height: 50px;
+  padding: 0 25px;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  text-align: right;
+
+  -webkit-box-shadow: 0px 0px 9px -1px rgba(0,0,0,0.19);
+  -moz-box-shadow: 0px 0px 9px -1px rgba(0,0,0,0.19);
+  box-shadow: 0px 0px 9px -1px rgba(0,0,0,0.19);
+}
+
+.account {
+  width: 100%;
+}
+
+h2{
+  font-size: 18px;
+  margin: 0;
+}
+
+h3 {
+  font-size: 16px;
+  margin: 0;
+}
+
+
+
